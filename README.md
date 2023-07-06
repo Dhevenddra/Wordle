@@ -10,7 +10,7 @@ Wordle is a simple word-guessing game where players attempt to guess a five-lett
 
 ## Requirements
 * Python 3.x
-* CSV file containing valid solution words
+* CSV file containing valid solution words - https://www.kaggle.com/datasets/bcruise/wordle-valid-words
 
 ## Usage
 1. Open a terminal or command prompt and navigate to the directory where the program is located.
