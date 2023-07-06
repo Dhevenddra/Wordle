@@ -16,7 +16,7 @@ Wordle is a simple word-guessing game where players attempt to guess a five-lett
 1. Open a terminal or command prompt and navigate to the directory where the program is located.
 
 2. Run the program by executing the following command:
-python wordle_game.py
+```python wordle_game.py```
 
 4. Read the basic rules displayed at the start of the program.
 
